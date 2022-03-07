@@ -1,0 +1,38 @@
+body {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.font-color-light {
+  color: white;
+}
+
+.navbar {
+  background-color: hsl(38, 100%, 60%);
+}
+
+.quem-somos {
+  background-color: hsl(300, 100%, 30%);
+  color: white;
+}
+
+.padding {
+  padding-bottom: 3rem;
+  padding-top: 0.7rem;
+}
+
+.parceiros {
+  background-color: hsl(300, 100%, 90%);
+}
+
+.servicos {
+  background-color: hsl(300, 100%, 30%);
+}
+
+.bg-col {
+  background-color: white;
+  padding: 1rem;
+}
+
+footer {
+  background-color: hsl(38, 100%, 35%);
+  padding: 1rem 0;
+}

@@ -1,0 +1,21 @@
+@media screen and (max-width: 700px) {
+  nav {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+.main-movie .description {
+  width: 300px;
+}
+
+.button {
+  margin-top: 5px;
+  width: 300px;
+}
+
+@media screen and (min-width: 1000px) {
+  .main-movie .description {
+    width: 60%;
+  }
+}
