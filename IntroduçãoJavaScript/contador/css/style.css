@@ -1,0 +1,15 @@
+body {
+  text-align: center;
+  background-color: lightblue;
+}
+
+button {
+  width: 40px;
+  height: 40px;
+  margin: 15px;
+  font-size: 32px;
+}
+
+span {
+  font-size: 32px;
+}
